@@ -1,0 +1,31 @@
+{
+  "sample_questions": [
+    {
+      "question": "Tell me about a time when you had to make a decision that wasn't popular but was right for the customer.",
+      "lp": "Customer Obsession",
+      "difficulty": 3
+    },
+    {
+      "question": "Describe a situation where you took on something significant outside your area of responsibility.",
+      "lp": "Ownership",
+      "difficulty": 3
+    },
+    {
+      "question": "Give me an example of when you simplified a complex process or system.",
+      "lp": "Invent and Simplify",
+      "difficulty": 4
+    },
+    {
+      "question": "Tell me about a time when you had to deliver results despite significant obstacles.",
+      "lp": "Deliver Results",
+      "difficulty": 4
+    },
+    {
+      "question": "Describe a situation where you disagreed with a decision and how you handled it.",
+      "lp": "Have Backbone; Disagree and Commit",
+      "difficulty": 4
+    }
+  ],
+  "sample_resume": "John Doe - Software Development Engineer\n\n5+ years of experience in cloud computing and distributed systems.\n\nSkills: Python, Java, AWS (EC2, S3, Lambda, SageMaker), Machine Learning, TensorFlow, SQL\n\nExperience:\n- Led development of ML pipeline processing 1M+ records daily\n- Reduced system latency by 40% through architecture optimization\n- Mentored 3 junior engineers on best practices",
+  "sample_job_description": "Software Development Engineer - Amazon Web Services\n\nRequirements:\n- 5+ years of software development experience\n- Proficiency in one or more programming languages (Python, Java, Go)\n- Experience with distributed systems and cloud services\n- Strong problem-solving skills and customer obsession\n- Ability to deliver results in a fast-paced environment\n\nPreferred Qualifications:\n- Experience with AWS services\n- Machine learning background\n- Track record of ownership and innovation"
+}
