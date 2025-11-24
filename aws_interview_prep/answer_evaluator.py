@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import os
+import random
 import re
 from typing import Optional
 
@@ -149,9 +150,6 @@ def score_answer_basic(
         )
 
     return lp_scores, float(final_score)
-
-
-import random
 
 
 def evaluate_answer_with_llm(
