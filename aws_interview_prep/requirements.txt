@@ -1,0 +1,10 @@
+# AWS Interview Prep Tool Dependencies
+
+# Core - required
+pydantic>=2.0
+
+# Optional - AI-powered features (requires OPENAI_API_KEY environment variable)
+openai>=1.0
+
+# Optional - Streamlit web interface
+streamlit>=1.27
